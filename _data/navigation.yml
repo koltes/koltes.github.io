@@ -1,39 +1,52 @@
 main:
-  - title: "Touchdesigner"
-    url: /touchdesigner/
-  - title: "Disguise-Notch"
-    url: /disguise/
-  - title: "Iluminación"
-    url: /iluminacion/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Categories"
+    url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "Blog"
     url: /posts/
   - title: "About"
     url: /about/
+
+# sidebar navigation list sample
 side:
   - title: "Touchdesigner"
-  children:
-    - title: 'Generative Content'
-    url: /_touchdesigner/01-Generative-Content.md
-  - title: "Disguise-Notch"
+    children:
+      - title: "1. Generative Content"
+        url: /Generative-Content/
+      - title: "2. Sops and Renders"
+        url: /Sops-and-Renders/
+      - title: "3. Mapping Techniques"
+        url: /Mapping-Techniques/
+      - title: "4. GLSL"
+        url: /GLSL/
+      - title: "5. Python & Presets-Systems"
+        url: /Python-&-Presets-Systems/
+      - title: "6. Inputs-Sensors-Control"
+        url: /Inputs-Sensors-Control/
+      - title: "7. Data & Installations"
+        url: /Data-&-Installations/
+      - title: "8. UI and Tricks"
+        url: /UI-and-Tricks/
+
+  - title: "Disguise - Notch"
+    children:
+      - title: "Child Page B1"
+        url: /
+      
   - title: "Iluminación"
+    children:
+      - title: "Child Page C1"
+        url: /
+      
   - title: "Portfolio"
-  - title: "Tags"
+    children:
+      - title: "Child Page D1"
+        url: /
+      
   - title: "Blog"
-  - title: "About"
+    children:
+      - title: "Child Page D1"
+        url: /
+      
 
-    ## [Touchdesigner](/touchdesigner/)
-##### 1. GENERATIVE CONTENT  
-##### 2. SOPS AND RENDERS 
-##### 3. MAPPING Techniques 
-##### 4. GLSL 
-##### 5. PYTHON & PRESET SYSTEM TECHNIQUES 
-##### 6. INPUTS, SENSOR, CONTROL 
-
-## [Disguise + Notch](/disguise/)
-## [Iluminación](/iluminacion/)
-## [Portfolio](/portfolio/)
-## [Blog](/posts/)

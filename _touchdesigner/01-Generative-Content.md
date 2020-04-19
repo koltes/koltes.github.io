@@ -1,6 +1,7 @@
 ---
-title: Generative Content
+Title: Generative Content
 collection: touchdesigner
+permalink: /Generative-Content/
 sidebar:
     nav: 'side'
 ---

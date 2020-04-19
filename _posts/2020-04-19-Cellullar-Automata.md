@@ -1,6 +1,11 @@
 ---
 title: Cellullar Automata
 collection: touchdesigner
+categories:
+    - tutorial
+tags:
+    - tutorial
+    - touchdesigner
 sidebar:
     nav: 'side'
 ---
