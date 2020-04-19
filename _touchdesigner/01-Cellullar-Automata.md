@@ -1,5 +1,6 @@
 ---
 title: Cellullar Automata
+collection: touchdesigner
 ---
 # CELLULAR AUTOMATA  
 > For advanced
