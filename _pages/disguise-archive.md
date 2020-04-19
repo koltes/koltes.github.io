@@ -1,6 +1,6 @@
 ---
 title: Disguise + Notch
-layout: collection
+layout: archive
 permalink: /disguise/
 collection: disguise
 entries_layout: grid

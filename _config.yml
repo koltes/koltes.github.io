@@ -97,33 +97,29 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _collections
+  # _touchdesigner
   - scope:
-      path: ""
+      path: "_touchdesigner"
       type: collection
     values:
       layout: single
       author_profile: true
 
 category_archive:
-  type: jekyll-archives
+  type: liquid
   path: /categories/
 tag_archive:
-  type: jekyll-archives
+  type: liquid
   path: /tags/
 touchdesigner_archive:
-  type: jekyll-archives
+  type: liquid
   path: /touchdesigner/
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-    - touchdesigner
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-    touchdesigner: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
-    touchdesigner: /touchdesigner/:name/
+disguise_archive:
+  type: liquid
+  path: /disguise/
+iluminacion_archive:
+  type: liquid
+  path: /iluminacion/
+portfolio_archive:
+  type: liquid
+  path: /portfolio/

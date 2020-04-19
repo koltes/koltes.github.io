@@ -1,6 +1,6 @@
 ---
 title: Touchdesigner
-layout: collection
+layout: archive
 permalink: /touchdesigner/
 collection: touchdesigner
 entries_layout: grid

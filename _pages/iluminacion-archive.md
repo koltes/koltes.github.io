@@ -1,6 +1,6 @@
 ---
 title: Iluminación
-layout: collection
+layout: archive
 permalink: /iluminacion/
 collection: iluminacion
 entries_layout: grid
