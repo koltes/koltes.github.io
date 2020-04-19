@@ -1,0 +1,73 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+#theme: jekyll-theme-slate
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://koltes.github.io'
+baseurl: ''
+title: 'Koltes'
+description: ' '
+permalink: pretty
+logo: "/image/logo_texto.png"
+masthead_title: " "
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Blog
+  url: /blog/
+- title: Touchdesigner
+  url: /touchdesigner/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: " "
+    feature_text: |
+      Welcome to my blog
+    feature_image: "/image/avatar.png"
+
+  touchdesigner:
+    output: true
+    description: " "
+    feature_text: |
+      Contenido sobre Touchdesigner
+    feature_image: "/image/avatar.png"
+    
+
+
+
+
+
