@@ -13,20 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: koltes
-email:
-#description: >- # this means to ignore newlines until "baseurl:"
+title: "koltes"
+locale: "en-US"
+email: "koltes.info@gmail.com"
+description: " "
 #twitter_username: username
 #github_username: koltes
 minimal_mistakes_skin: default
+url: https://koltes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: ""
+repository: koltes/koltes.github.io
+teaser: "/assets/images/avatar.png"
+logo: "/assets/images/logo_texto.png"
+masthead_title: " "
+# breadcrumbs: false # true, false (default)
 search: true
-logo: /assets/images/logo_texto.png
-#teaser: /assets/images/avatar.png
-#masthead_title: ' '
+
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -76,7 +82,21 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    
+
+# Collections
+collections:
+  touchdesigner:
+    output: true
+    permalink: /:collection/:path/
+  disguise:
+    output: true
+    permalink: /:collection/:path/
+  iluminacion:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/    
 
 defaults:
   # _posts
@@ -99,11 +119,42 @@ defaults:
       author_profile: true
   # _touchdesigner
   - scope:
-      path: "_touchdesigner"
-      type: collection
+      path: ""
+      type: touchdesigner
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      #sidebar:
+      #  nav: "docs"
+  # _disguise
+  - scope:
+      path: ""
+      type: disguise
     values:
       layout: single
       author_profile: true
+      share: true
+      comments: true
+  # _iluminacion
+  - scope:
+      path: ""
+      type: iluminacion
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
@@ -123,3 +174,8 @@ iluminacion_archive:
 portfolio_archive:
   type: liquid
   path: /portfolio/
+
+# Sass/SCSS
+#sass:
+#  sass_dir: _sass
+#  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
