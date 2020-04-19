@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Video Artists
 categories:
   - links

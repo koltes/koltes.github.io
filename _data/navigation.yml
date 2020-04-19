@@ -1,0 +1,17 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Touchdesigner"
+    url: /touchdesigner-archive/
+  - title: "Disguise+Notch"
+    url: /disguise-archive/
+  - title: "Iluminación"
+    url: /iluminacion-archive/
+  - title: "Portfolio"
+    url: /portfolio-archive/
+  - title: "Tags"
+    url: /tags/
+  - title: "Blog"
+    url: /posts/
+  - title: "About"
+    url: /about/
