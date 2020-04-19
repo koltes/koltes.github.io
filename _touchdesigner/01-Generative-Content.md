@@ -1,11 +1,10 @@
 ---
 title: Generative Content
 collection: touchdesigner
-permalink: /_touchdesigner/GenerativeContent/
 sidebar:
     nav: 'side'
 ---
-# GENERATIVE CONTENT #
+
 
 - https://www.simonaa.media/tutorials/daily-practice
 - http://www.indaehwang.com
