@@ -1,6 +1,8 @@
 ---
 title: Cellullar Automata
 collection: touchdesigner
+sidebar:
+    nav: 'side'
 ---
 # CELLULAR AUTOMATA  
 > For advanced

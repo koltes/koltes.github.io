@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Touchdesigner"
     url: /touchdesigner/
   - title: "Disguise-Notch"
@@ -15,3 +13,36 @@ main:
     url: /posts/
   - title: "About"
     url: /about/
+side:
+  - title: "Home"
+    url: /
+  - title: "Touchdesigner"
+    url: /touchdesigner/
+    children:
+      - title: 'Generative Content'
+      url: /_touchdesigner/GenerativeContent/
+  - title: "Disguise-Notch"
+    url: /disguise/
+  - title: "Iluminación"
+    url: /iluminacion/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Tags"
+    url: /tags/
+  - title: "Blog"
+    url: /posts/
+  - title: "About"
+    url: /about/
+
+    ## [Touchdesigner](/touchdesigner/)
+##### 1. GENERATIVE CONTENT  
+##### 2. SOPS AND RENDERS 
+##### 3. MAPPING Techniques 
+##### 4. GLSL 
+##### 5. PYTHON & PRESET SYSTEM TECHNIQUES 
+##### 6. INPUTS, SENSOR, CONTROL 
+
+## [Disguise + Notch](/disguise/)
+## [Iluminación](/iluminacion/)
+## [Portfolio](/portfolio/)
+## [Blog](/posts/)

@@ -5,7 +5,8 @@ categories:
   - links
 
 feature_image: "https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1570550385822-KIOCE430ZGNDF3VLIJGV/ke17ZwdGBToddI8pDm48kJ7nbjKbkWUsh--ERnWUjn5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PINeE2IRzA94xOcAmQpZPYUTM_9gggOThSvOQ_2DDZFXwKMshLAGzx4R3EDFOm1kBS/MU+06.jpg?format=750w"
-  
+sidebar:
+    nav: 'side'  
 ---
 
 ### Rich Porter

@@ -3,7 +3,9 @@ title: Touchdesigner
 layout: collection
 permalink: /touchdesigner/
 collection: touchdesigner
-entries_layout: grid
+entries_layout: list
+author_profile: false
+sidebar:
+    nav: 'side'
 ---
 
-Sample document listing for the collection `_touchdesigner`.

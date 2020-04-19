@@ -4,7 +4,8 @@ layout: archive
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
-classes: wide
+sidebar:
+    nav: 'side'
 ---
 
 Sample document listing for the collection `_portfolio`.
