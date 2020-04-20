@@ -78,7 +78,7 @@ Igual que las bandadas de pájaros.
 [KineticTypo]: https://www.youtube.com/watch?v=zrA9gaCymjM&feature=youtu.be
 [Paketa12]: https://www.facebook.com/watch/?v=1408728442564632
 [Karl Sims]: http://www.karlsims.com/rd.html 
-[Darien Brito]: https://derivative.ca/community-post/tutorial/cellular-automata-tutorial-series/62778Explicación
+[Darien Brito]: https://derivative.ca/community-post/tutorial/cellular-automata-tutorial-series/62778
 [3Blue1Brown]: https://www.youtube.com/watch?v=RU0wScIj36o
 [David Braun]: https://github.com/DBraun/TouchDesigner_Shared
 [matthewwatcher]: https://forum.derivative.ca/t/flocking-boids-gpu/8037
