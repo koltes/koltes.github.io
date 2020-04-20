@@ -13,24 +13,23 @@ Aunque iré completando según encuentre nuevos tutoriales y procedimientos y no
 ## Looping Noise:
 Generar loops de videos donde operadores de `noise` generan estos loops aleatorios.  
 
-**Links:**
-- [Make some noise de Mathew Ragan](https://matthewragan.com/make-some-noise-sf-2017-touchdesigner/){:target="_blank"}    
-- [Generative Design – Shape and Noise de Mathew Ragan](https://matthewragan.com/2015/03/29/thp-494-598-generative-design-shape-and-noise-touchdesigner/){:target="_blank"}  
-[Infinite Tunnel](https://www.simonaa.media/tutorials/looping-noise-part-2-infinite-tunnel-zoom){:target="_blank"}  
-[End-begin](https://www.simonaa.media/tutorials/looping-noise-part-1){:target="_blank"}  
-[Variable Line Width](https://www.simonaa.media/tutorials/line-width){:target="_blank"}  
-
+_Links:_
+    - [Make some noise de Mathew Ragan](https://matthewragan.com/make-some-noise-sf-2017-touchdesigner/){:target="_blank"}    
+    - [Generative Design – Shape and Noise de Mathew Ragan](https://matthewragan.com/2015/03/29/thp-494-598-generative-design-shape-and-noise-touchdesigner/){:target="_blank"}  
+    - [Infinite Tunnel](https://www.simonaa.media/tutorials/looping-noise-part-2-infinite-tunnel-zoom){:target="_blank"}  
+    - [End-begin](https://www.simonaa.media/tutorials/looping-noise-part-1){:target="_blank"}  
+    - [Variable Line Width](https://www.simonaa.media/tutorials/line-width){:target="_blank"}  
 
 ## Reaction Diffusion: 
 Dos compuestos o seres microscópicos reaccionando entre sí.  
 
-> Reaction diffusion is the simulation of two virtual chemicals reacting and diffusing on a 2D grid
+> "Reaction diffusion is the simulation of two virtual chemicals reacting and diffusing on a 2D grid"
 
 Como explica [Karl Sims][Karl Sims]{:target="_blank"}
 
-**Links:**
+_Links:_
 - [Tutorial de Paketa12 sobre Reaction Diffusion][Paketa12]{:target="_blank"}  
-- [Cellullar Noise by Elecctronayt][Elekktronaut - Cellullar Noise]
+- [Cellullar Noise by Elecctronayt][Elekktronaut - Cellullar Noise]{:target="_blank"} 
 
 
 ## Cellullar Automata: 
