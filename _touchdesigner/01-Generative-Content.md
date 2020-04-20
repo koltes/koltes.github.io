@@ -2,11 +2,13 @@
 Title: Generative Content
 collection: touchdesigner
 permalink: /Generative-Content/
+toc: true
 header:
   overlay_image: /assets/images/Generative-Header.jpg
+  overlay_filter: 0.25
+  show_overlay_excerpt: false
 sidebar:
     nav: 'side'
----
 ---
 Recopilatorio de técnicas para generar contenido con Touchdesigner.  
 En un principio utilizo una clasificación realizada por [Simon Alexander](https://www.simonaa.media/tutorials/daily-practice){:target="_blank"}.  
@@ -15,7 +17,7 @@ Aunque iré completando según encuentre nuevos tutoriales y procedimientos y no
 ## Looping Noise:
 Generar loops de videos donde operadores de `noise` generan estos loops aleatorios.  
 
-_Links:_
+_Links:_  
     - [Make some noise de Mathew Ragan](https://matthewragan.com/make-some-noise-sf-2017-touchdesigner/){:target="_blank"}    
     - [Generative Design – Shape and Noise de Mathew Ragan](https://matthewragan.com/2015/03/29/thp-494-598-generative-design-shape-and-noise-touchdesigner/){:target="_blank"}  
     - [Infinite Tunnel](https://www.simonaa.media/tutorials/looping-noise-part-2-infinite-tunnel-zoom){:target="_blank"}  
@@ -31,7 +33,7 @@ Como explica [Karl Sims][Karl Sims]{:target="_blank"}
 
 _Links:_
 - [Tutorial de Paketa12 sobre Reaction Diffusion][Paketa12]{:target="_blank"}  
-- [Cellullar Noise by Elecctronayt][Elekktronaut - Cellullar Noise]{:target="_blank"} 
+- [Cellullar Noise by Elekktronaut][Elekktronaut - Cellullar Noise]{:target="_blank"} 
 
 
 ## Cellullar Automata: 

@@ -1,0 +1,83 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$link-color: steelblue;
+$link-size: 0.68em;
+
+/* type scale */
+$type-size-1 : 1.320em;  
+$type-size-2 : 1.188em;  
+$type-size-3 : 1.063em;  
+$type-size-4 : 0.938em;   
+$type-size-5 : 0.813em;      
+$type-size-6 : 0.770em;   
+$type-size-7 : 0.688em; 
+$type-size-8 : 0.563em;  
+
+$h-size-1 : 1.250em;
+$h-size-2 : 1.188em;
+$h-size-3 : 1.125em;
+$h-size-4 : 1.063em;
+$h-size-5 : 1.000em;
+$h-size-6 : 0.938em;
+
+.page__lead {
+  
+  font-size: $type-size-4;
+}
+.page__content {
+  
+  font-size: $type-size-6;
+}
+.page__title {
+      font-size: $type-size-2;
+}
+.page__hero-caption {
+	font-size: $type-size-7;
+}
+.page__share-title {
+  margin-bottom: 10px;
+  font-size: $type-size-6;
+  text-transform: uppercase;
+}
+.page__meta {
+  font-size: $type-size-6;
+}
+.page__comments-title {
+  font-size: $type-size-6;
+}
+.page__related-title {
+  font-size: $type-size-7;
+}
+
+
+.archive__item-title {
+  font-size: $type-size-4;
+}
+.archive__subtitle {
+  font-size: $type-size-7;
+}
+.archive__item-excerpt {
+  font-size: $type-size-8;
+}
+.archive__item-caption {
+  font-size: $type-size-8;
+}
+.list__item {
+  .page__meta {
+    margin: 0 0 4px;
+    font-size: 0.1em;
+  }
+}
+.sidebar {
+	
+}
+.small {
+  font-size: $type-size-7;
+}
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

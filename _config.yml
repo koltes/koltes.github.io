@@ -26,7 +26,7 @@ repository: koltes/koltes.github.io
 teaser: "/assets/images/avatar.png"
 logo: "/assets/images/logo_texto.png"
 masthead_title: " "
-# breadcrumbs: false # true, false (default)
+breadcrumbs: true # true, false (default)
 search: true
 
 
