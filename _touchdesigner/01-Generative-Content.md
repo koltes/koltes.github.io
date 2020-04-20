@@ -44,7 +44,7 @@ Curvas que pasan a traves de cada punto de un cuadrado.
 
 [Link a explicación][3Blue1Brown]{:target="_blank"}
 
-Another important resource is the book [“The Algorithmic Beauty of Plants” by Prusinkiewicz and Lindenmayer](/assets/books/ALGORITHMIC BEAUTY OF THE PLANTS.pdf){:target="_blank"}, which contains many examples space of filling curves which can be ported to TouchDesigner’s L-System SOP.
+Another important resource is the book [“The Algorithmic Beauty of Plants” by Prusinkiewicz and Lindenmayer](/https://mega.nz/file/2rhB1bBK#f26G70M-Xhfwf1i0h-dXWogbjoXzQLlAf-zkdQWjZTs){:target="_blank"}, which contains many examples space of filling curves which can be ported to TouchDesigner’s L-System SOP.
 
 [Toxes de David Braun - BeesandBombs, etc...][David Braun]{:target="_blank"}
 
