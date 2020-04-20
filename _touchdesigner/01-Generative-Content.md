@@ -7,7 +7,7 @@ header:
 sidebar:
     nav: 'side'
 ---
-
+---
 Recopilatorio de técnicas para generar contenido con Touchdesigner.  
 En un principio utilizo una clasificación realizada por [Simon Alexander](https://www.simonaa.media/tutorials/daily-practice){:target="_blank"}.  
 Aunque iré completando según encuentre nuevos tutoriales y procedimientos y no pueda encuadrarlos en esta clasificación.
