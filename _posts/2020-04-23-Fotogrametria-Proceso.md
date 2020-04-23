@@ -60,9 +60,19 @@ Limpiar nube de puntos a mano
 ##### 3.1 Reducir poligonaje (Decimation)
 1. Tools > Mesh > Decimation Mesh
 > Le decimos el numero de poligonos con los que trabajar.
+##### 3.2 Refinar el modelo 3d
+1. Tools > Mesh > Refine Mesh (rehace pase con fotos incluido.)
+2. Tools > Mesh > Smooth Mesh
+3. Tools > Mesh > Close Holes
 
+### 4. Build Texture
+1. Workflow > Build Texture
+> Resolucion 4k como mínimo. 16k está bien.
 
-
+### 5. EXPORTAR
+1. Primero intentar colocarlo en las coordenadas 0,0,0
+2. File > Export > Export model 
+> Incluir textura 
 
 
 
