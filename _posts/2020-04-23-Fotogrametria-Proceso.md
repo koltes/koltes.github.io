@@ -2,7 +2,12 @@
 title: Fotogrametria Resumen
 tags:
     - fotogrametria
-    - agisoft 
+    - metashape
+categories:
+    - tutorial
+    - workflow  
+sidebar:
+    nav: 'side'
 ---
 Siguiendo el sistema estudiado en Domestika.  
 ## Photoshop o Lightroom  
@@ -28,8 +33,38 @@ Este proceso se haría antes de Align Selected Cameras.
   
 3. Renombrar el chunk y guardar.  
 4. Duplicar el chunk por si hubiera que volver atrás.  
+ 
+##### 1.1 Optimizar cámaras
+Tools > Optimizar cámaras
 
-### 2. tie points (conexion entre las imagenes - puntos de referencias)
-### 3. Depth Map
-### 4. Dense cloud
-### 5. Mesh 
+##### 1.2 Borrado de puntos defectuosos
+1. Model > Gradual Selection
+    - Reprojection Error (ajustar el slider para seleccionar algunos puntos)
+    - Borrar puntos seleccionados.
+2. Model > Gradual Selection
+    + Reconstruction uncertainty
+
+##### 1.3 Limpiar puntos
+Limpiar nube de puntos a mano
+
+### 2. Construir Nube de puntos
+1. Workflow > Build Point Cloud
+> Depth filtering: Agressive
+2. Limpiar puntos de nuevo.
+
+### 3. Construir Mesh y textura
+1. Workflow > Mesh
+    + Surface Type: Arbitrary - Si la superficie no es plana. Si no, escoger Height Field para superficies planas.   
+    + Face count: Numero de poligonos que crea.
+
+##### 3.1 Reducir poligonaje (Decimation)
+1. Tools > Mesh > Decimation Mesh
+> Le decimos el numero de poligonos con los que trabajar.
+
+
+
+
+
+
+
+--------------------
