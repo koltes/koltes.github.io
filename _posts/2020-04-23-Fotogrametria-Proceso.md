@@ -56,6 +56,7 @@ Limpiar nube de puntos a mano
 1. Workflow > Mesh
     + Surface Type: Arbitrary - Si la superficie no es plana. Si no, escoger Height Field para superficies planas.   
     + Face count: Numero de poligonos que crea.
+    + Interpolation: Por defecto en ON. Solo con detalles muy pequeños lo podemos quitar.(Vegetación, etc...)  
 
 ##### 3.1 Reducir poligonaje (Decimation)
 1. Tools > Mesh > Decimation Mesh
@@ -68,6 +69,8 @@ Limpiar nube de puntos a mano
 ### 4. Build Texture
 1. Workflow > Build Texture
 > Resolucion 4k como mínimo. 16k está bien.
+> Enable hole filling
+> Enable Gosthing Filter
 
 ### 5. EXPORTAR
 1. Primero intentar colocarlo en las coordenadas 0,0,0
