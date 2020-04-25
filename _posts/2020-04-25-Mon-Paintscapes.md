@@ -17,7 +17,7 @@ vimeoId: 258471230
 
 [Inspiración][PaintScapes]
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 
 [PaintScapes]: https://derivative.ca/community-post/paintscapes-alienscapes
