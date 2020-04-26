@@ -10,6 +10,11 @@ main:
 
 # sidebar navigation list sample
 side:
+  - title: "VFX"
+    children:
+      - title: "VFX General"
+        url: /VFX-Main/
+
   - title: "Touchdesigner"
     children:
       - title: "1. Generative Content"
@@ -28,25 +33,35 @@ side:
         url: /Data-&-Installations/
       - title: "8. UI and Tricks"
         url: /UI-and-Tricks/
+      - title: "Archive"
+        url: /touchdesigner/
 
   - title: "Disguise - Notch"
     children:
       - title: "Child Page B1"
         url: /
+      - title: "Archive"
+        url: /disguise/
       
   - title: "Iluminación"
     children:
       - title: "Child Page C1"
         url: /
+      - title: "Archive"
+        url: /iluminacion/
       
   - title: "Portfolio"
     children:
       - title: "Child Page D1"
         url: /
+      - title: "Archive"
+        url: /portfolio/
       
   - title: "Blog"
     children:
       - title: "Child Page D1"
         url: /
+      - title: "Archive"
+        url: /posts/
       
 
