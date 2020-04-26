@@ -97,7 +97,10 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/ 
+  vfx:
+    output: true
+    permalink: /collection/:path/
 
 defaults:
   # _posts
