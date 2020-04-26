@@ -122,6 +122,18 @@ defaults:
       author_profile: false
       sidebar:
         nav: "side"
+  # _vfx
+  - scope:
+      path: ""
+      type: vfx
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "side"
   # _touchdesigner
   - scope:
       path: ""
@@ -134,8 +146,6 @@ defaults:
       comments: false
       sidebar:
         nav: "side"
-      #sidebar:
-      #  nav: "docs"
   # _disguise
   - scope:
       path: ""
@@ -187,6 +197,9 @@ iluminacion_archive:
 portfolio_archive:
   type: liquid
   path: /portfolio/
+vfx_archive:
+  type: liquid
+  path: /vfx/
 
 # Sass/SCSS
 #sass:
