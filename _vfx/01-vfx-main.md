@@ -23,7 +23,8 @@ sidebar:
 
 ## ANIMACIÓN
 
-### 1. Introducción A La Animación Y Métodos De Animación.
+### 1. Introducción 
+Introducción a la animación y métodos de animación.  
 
 [Técnicas de animación bien explicadas.][NOTODOANIMACION]  
 
