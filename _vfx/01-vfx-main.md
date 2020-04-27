@@ -54,9 +54,9 @@ sidebar:
 - Simulación.
 
 ### 7. Generadores
-• Noise: Generador de niebla.
-• Ramp: Generador de fondos.
-• Máscaras: Circulo y rectánculo.
+- Noise: Generador de niebla.  
+- Ramp: Generador de fondos.  
+- Máscaras: Circulo y rectánculo.  
 
 ---
 
