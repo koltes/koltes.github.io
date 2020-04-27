@@ -1,7 +1,7 @@
 ---
 title: VFX
 collection: vfx
-permalink: /vfx-main/
+permalink: /vfxmain/
 toc: true
 sidebar:
     nav: 'side'

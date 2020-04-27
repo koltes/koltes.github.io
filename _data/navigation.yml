@@ -13,7 +13,7 @@ side:
   - title: "VFX"
     children:
       - title: "VFX General"
-        url: /vfx-main/
+        url: /vfxmain/
 
   - title: "Touchdesigner"
     children:
