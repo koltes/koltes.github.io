@@ -1,6 +1,5 @@
 ---
 title: PYTHON TIPS'N'TRICKS
-type: post
 tags:
     - python
 sidebar:
