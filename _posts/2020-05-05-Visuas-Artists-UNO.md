@@ -16,7 +16,9 @@ youtubeId2: De_rAo5ebYI
 ![Sol Lewit](https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvc29sLWxld2l0dC13YWxsLmpwZyIsInJlc2l6ZSw4MDAiXX0.maT8wxrNQrHLgMO0So2vN0EwrUl14fka6p1iKApQrKY.jpg)  
 
 #### James Turrell
-{% include youtubePlayer.html id=page.youtubeId %}
+![In Real Life](https://s3-eu-west-1.amazonaws.com/olafureliasson.net/objektimages_final/IMG_MDA122629_1600px.jpg)  
+  
+{% include youtubePlayer.html id=page.youtubeId %}  
 
 
 #### Olafur Eliasson
