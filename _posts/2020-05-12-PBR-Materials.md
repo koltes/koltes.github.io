@@ -5,7 +5,8 @@ categories:
 tags:
     - material
     - pbr 
-feature image: "https://cdn3.struffelproductions.com/file/CC0-Textures/media/sphere/512-JPG/Bricks022_PREVIEW.jpg"
+header:
+  overlay_image:  "https://cdn3.struffelproductions.com/file/CC0-Textures/media/sphere/512-JPG/Bricks022_PREVIEW.jpg"
 sidebar:
     nav: 'side'  
 ---
