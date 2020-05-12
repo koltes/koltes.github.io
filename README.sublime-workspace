@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"from",
+				"from_file"
+			],
+			[
+				"to",
+				"to_file"
+			],
+			[
+				"fr",
+				"from_file"
+			],
+			[
+				"we",
+				"weight_pounds"
+			],
+			[
+				"height",
+				"height_inches"
+			],
+			[
+				"my",
+				"my_name"
+			],
+			[
+				"siz",
+				"size_offset"
+			],
+			[
+				"mov",
+				"moviefilein3"
+			],
+			[
+				"Store",
+				"StorageOp"
+			],
+			[
+				"Par",
+				"ParameterPage"
+			],
+			[
+				"Target",
+				"TargetOperator"
+			],
+			[
+				"break",
+				"breakoutText"
+			],
+			[
+				"animal",
+				"animalList"
+			],
+			[
+				"eac",
+				"eachCell"
+			],
+			[
+				"M",
+				"MyList2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PREVIEW",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"set syntax mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"set sy mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"SET SYNTA MAR",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"preve",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"pa",
+				"Pandoc"
+			],
+			[
+				"PANDOC",
+				"Pandoc"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"PREVI",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"set syntax: mar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"set syntax: mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"SET SYNTAX: MARK",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"set syntax: ma",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"SET SYNTAX MARK",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"PREV",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prevew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"span",
+				"Spandoc: Palette"
+			],
+			[
+				"p",
+				"Pandoc"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Toni/Downloads/Map Height.kml",
+		"/C/Users/Toni/Google Drive/01_PROYECTOS/00_2020/08_Rider/MolinaNuevo_Rider Tecnico.md",
+		"/C/Users/Toni/Google Drive/01_PROYECTOS/00_2020/03_Escenografia/SUELOS/Gerriets_Linoleos.md",
+		"/C/Users/Toni/Downloads/touchdesigner-node-red-com-example-master/touchdesigner-node-red-com-example-master/README.md",
+		"/C/Users/Toni/Downloads/touchdesigner-node-red-com-example-master/touchdesigner-node-red-com-example-master/node-red-flow.json",
+		"/C/Users/Toni/Desktop/MARA/MaraUI-master/README.md",
+		"/C/Users/Toni/Desktop/MARA/Mara_Lite-master/Lib/container_previz/Main.py",
+		"/C/Users/Toni/Documents/GitHub/Python_The-Hard-Way/Lessons/ex17.py",
+		"/C/Users/Toni/Documents/GitHub/Python_The-Hard-Way/Lessons/ex17Out.txt",
+		"/C/Users/Toni/Documents/GitHub/Python_The-Hard-Way/Lessons/ex16test.txt",
+		"/C/Users/Toni/Documents/GitHub/Python_The-Hard-Way/Lessons/ex17In.txt",
+		"/C/Users/Toni/Documents/GitHub/Python_The-Hard-Way/Lessons/ex16.py",
+		"/C/Users/Toni/Documents/GitHub/Python_The-Hard-Way/Lessons/ex16_prueba.py",
+		"/C/Users/Toni/Downloads/Raymarching-in-TD-master/Raymarching-in-TD-master/README.md",
+		"/D/01_TOUCH HQ PRO/HQ_PRO_Tools/HQ PRO Tools/Windows_install.bat",
+		"/C/Users/Toni/Documents/GitHub/Touch_Estudios/02_Sops_and_Renders/Light_Paint_TraceSOP.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_chopexec1__td_12556_61.py",
+		"/C/Users/Toni/Downloads/workshops-master/workshops-master/Photomosaic/README.md",
+		"/C/Users/Toni/Documents/GitHub/TD-Daily/002_Room/Presets_3.json",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_parexec1__td_1640_54.py",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_extPresetManager__td_1640_55.py",
+		"/C/Users/Toni/Documents/GitHub/TD-Daily/002_Room/Presets_2.json",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_parexec1__td_1640_58.py",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_chopexec1__td_1640_56.py",
+		"/C/Users/Toni/Documents/GitHub/TD-Daily/002_Room/Presets_.json",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_posts/2020-05-06-Frontends-Webservers-for-TD.md",
+		"/C/Users/Toni/Documents/GitHub/TDMorph/README.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_timer1_callbacks__td_10704_50.py",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_chopexec2__td_10704_53.py",
+		"/C/Users/Toni/Documents/GitHub/Touch_Estudios/02_Sops_and_Renders/raymarching.md",
+		"/C/Users/Toni/Documents/MEGA/TD-Everydays/README.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_chopexec1__td_7996_81.py",
+		"/C/Users/Toni/Documents/GitHub/gfms/README.md",
+		"/C/Users/Toni/Documents/GitHub/zork-py/README.md",
+		"/C/Users/Toni/Documents/GitHub/jekyll-embed-video/README.md",
+		"/C/Users/Toni/Documents/GitHub/jekyll-embed-video/example.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_posts/2020-05-05-Visuas-Artists-UNO.md",
+		"/C/Users/Toni/Dropbox/Lola/Mayo_5/TAREAS Lola.md",
+		"/C/Users/Toni/Dropbox/Carmen/Mayo_5/TAREAS CARMEN.md",
+		"/C/Users/Toni/Dropbox/Carmen/Mayo_5/MATES Y LENGUA.md",
+		"/C/Users/Toni/Desktop/MARA/MaraTimeline-master/README.md",
+		"/C/Users/Toni/Desktop/MARA/Mara_Lite-master/README.md",
+		"/C/Users/Toni/Dropbox/Carmen/Mayo_4/TAREAS CARMEN.md",
+		"/C/Users/Toni/Dropbox/Lola/Mayo_4/TAREAS LOLA.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_ButtonPanelExec__td_3420_55.py",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_angleCalc__td_3420_54.py",
+		"/C/Users/Toni/Documents/GitHub/Touch_Estudios/03_Mapping_Techniques/README.md",
+		"/C/Users/Toni/Documents/GitHub/Touch_Estudios/03_Mapping_Techniques/UVmapping_Ian Shelanskey Tut.md",
+		"/C/Users/Toni/Documents/GitHub/Touch_Estudios/02_Sops_and_Renders/TDraymarchToolkit-master/README.md",
+		"/C/Users/Toni/Downloads/Touchdesigner-Multi-Layer-Timeline-master/Touchdesigner-Multi-Layer-Timeline-master/README.md",
+		"/C/Users/Toni/Documents/GitHub/Python_The-Hard-Way/Lessons/ex14.py",
+		"/C/Users/Toni/Documents/GitHub/Python_The-Hard-Way/Lessons/ex15.py",
+		"/C/Users/Toni/Documents/GitHub/Python_The-Hard-Way/Lessons/ex15_sample.txt",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_posts/2020-05-01-Python-Tips.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_glsl1_compute__td_280_51.glsl",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_glsl1_pixel__td_11044_59.glsl",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_glsl1_vertex__td_11044_58.glsl",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_glsl1_pixel__td_10596_55.glsl",
+		"/C/Users/Toni/Documents/GitHub/paisaje_project/README.md",
+		"/C/Users/Toni/Dropbox/Lola/Abril_30/TAREAS LOLA.md",
+		"/C/Users/Toni/Dropbox/Carmen/Abril_30/TAREAS CARMEN.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_chopexec1__td_12032_2258.py",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_timer1_callbacks__td_12368_49.py",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_parexec1__td_12368_52.py",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_parexec2__td_12368_53.py",
+		"/C/Users/Toni/Downloads/Derivative.TouchDesigner.Pro.v099.2020.20200.X64-AMPED/amped.nfo",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_timer1_callbacks__td_4716_49.py",
+		"/C/Users/Toni/Documents/GitHub/TD-Everydays/README.md",
+		"/C/Users/Toni/Dropbox/Carmen/Abril_29/TAREAS CARMEN.md",
+		"/C/Users/Toni/Dropbox/Lola/Abril_29/TAREAS LOLA.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_datexec1__td_10992_58.py",
+		"/C/Users/Toni/Downloads/Eisvogel-1.4.0/README.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_chopexec1__td_10992_57.py",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_text3__td_10992_54.py",
+		"/C/Users/Toni/Dropbox/Lola/Abril_28/# TAREAS LOLA.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_text1__td_10992_50.py",
+		"/C/Users/Toni/Dropbox/Carmen/Abril_28/# TAREAS CARMEN.md",
+		"/C/Users/Toni/Documents/GitHub/Touch_Estudios/03_Mapping_Techniques/Dome-Mapping/Links.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_parexec1__td_8496_60.py",
+		"/C/Users/Toni/Documents/GitHub/Touch_Estudios/05_Python_and_Preset_systems/Python Advanced Project Files/pure-python/myClass.py",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_ArcBallExt__td_956_91.py",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_datexec1__td_956_112.py",
+		"/C/Users/Toni/Documents/GitHub/Touch_Estudios/05_Python_and_Preset_systems/TDMorph-master/TDMorph-master/README.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_vfx/01-vfx-main.md",
+		"/C/Users/Toni/Dropbox/Lola/Abril_27/# TAREAS LOLA.md",
+		"/C/Users/Toni/Dropbox/Carmen/Abril_27/# TAREAS CARMEN.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/README.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_config.yml",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_pages/vfx-archive.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_pages/year-archive.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_data/navigation.yml",
+		"/C/Users/Toni/Documents/Derivative/Palette/paletteData.json",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_parexec1__td_7560_49.py",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_posts/2020-04-25-Data-Vis-Links.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_touchdesigner/07-Data-&-Installations.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_posts/2020-04-25-Mon-Paintscapes.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_includes/vimeoPlayer.html",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_includes/youtubePlayer.html",
+		"/C/Users/Toni/Dropbox/Carmen/Abril_24/TAREAS CARMEN.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_posts/2020-04-23-Fotogrametria-Proceso.md",
+		"/C/Users/Toni/Dropbox/Lola/Abril_24/TAREAS LOLA.md",
+		"/C/Users/Toni/Desktop/Webinar Disguise.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_posts/2020-04-18-Video-Artists.md",
+		"/C/Users/Toni/Dropbox/Lola/Abril_23/TAREAS LOLA.md",
+		"/C/Users/Toni/Dropbox/Carmen/Abril_23/TAREAS CARMEN.md",
+		"/C/Users/Toni/Documents/GitHub/Python_The-Hard-Way/Lessons/ex13c.py",
+		"/C/Users/Toni/Downloads/rutt-etra-TouchDesigner-master/rutt-etra-TouchDesigner-master/README.md",
+		"/C/Users/Toni/AppData/Roaming/Sublime Text 3/Packages/User/Markdown2PDF.sublime-build",
+		"/C/Users/Toni/AppData/Roaming/Sublime Text 3/Packages/Pandoc/Pandoc.sublime-settings",
+		"/C/Users/Toni/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc.sublime-settings",
+		"/C/Users/Toni/AppData/Roaming/pdfEngineCss/custom.css",
+		"/C/Users/Toni/AppData/Roaming/Sublime Text 3/Packages/User/head.tex",
+		"/C/Users/Toni/Documents/GitHub/markdown-here.wiki/Markdown-Cheatsheet.md",
+		"/C/Users/Toni/Dropbox/Carmen/Abril_22/gfms/README.md",
+		"/C/Users/Toni/Dropbox/Carmen/Abril_22/Tareas_Carmen.md",
+		"/C/Users/Toni/Dropbox/Carmen/Abril_21/TAREAS CARMEN.md",
+		"/C/Users/Toni/Dropbox/Carmen/Abril_22/TAREAS CARMEN.md",
+		"/C/Users/Toni/Dropbox/Lola/Abril_22/TAREAS LOLA.md",
+		"/C/Users/Toni/Dropbox/Lola/Abril_22/RESUMEN LENGUA Y MATES.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_text1__td_13512_49.py",
+		"/C/Users/Toni/Documents/GitHub/Touch_Estudios/03_Mapping_Techniques/Previz-master/README.md",
+		"/C/Users/Toni/Google Drive/01_PROYECTOS/00_2020/08_Rider/RIDER TÉCNICO.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_posts/TAREAS LOLA.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_posts/2020-04-19-Cellullar-Automata.md",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_posts/2020-04-21-f-spy.md",
+		"/C/Users/Toni/Desktop/table_rules_binary.py",
+		"/C/Users/Toni/Documents/GitHub/koltes.github.io/_touchdesigner/01-Generative-Content.md",
+		"/C/Users/Toni/AppData/Local/Temp/touchtmp/dat_text1__td_1904_45.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Markdown2PDF.sublime-build",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"# Skills"
+			]
+		],
+		"width": 503.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
